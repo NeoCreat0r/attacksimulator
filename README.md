@@ -17,6 +17,7 @@ This tool is ideal for:
 **Dependencies**: None (pure WPF)
 ## 🚀 Getting Started
 Prerequisites: Windows OS, NET Framework 4.7.2 or later
+
 Installation: Download the latest release and run AttackSimulator.exe
 ## ⚠️ Disclaimer
 **This is a simulation tool for security awareness and training purposes only.**
