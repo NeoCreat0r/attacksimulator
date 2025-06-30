@@ -1,0 +1,16 @@
+E:\Visual Studio\Проекты\AttackSimulator\bin\Release\AttackSimulator.exe.config
+E:\Visual Studio\Проекты\AttackSimulator\bin\Release\AttackSimulator.exe
+E:\Visual Studio\Проекты\AttackSimulator\bin\Release\AttackSimulator.pdb
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator.csproj.AssemblyReference.cache
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\App.baml
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\MainWindow.g.cs
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\App.g.cs
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator_MarkupCompile.cache
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator_MarkupCompile.lref
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\MainWindow.baml
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator.g.resources
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator.Properties.Resources.resources
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator.csproj.GenerateResource.cache
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator.exe
+E:\Visual Studio\Проекты\AttackSimulator\obj\Release\AttackSimulator.pdb
