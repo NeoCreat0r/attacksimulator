@@ -14,7 +14,9 @@ This tool is ideal for:
 4. Professional UI - Themed like security tools with real-time update
 ## 🛠️ Technical Details
 **Platform**: Windows (WPF .NET application)
+
 **Language**: C#
+
 **Dependencies**: None (pure WPF)
 ## 🚀 Getting Started
 Prerequisites: Windows OS, NET Framework 4.7.2 or later
